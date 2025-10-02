@@ -1,0 +1,20 @@
+{
+  "name": "m4_ae2_abp-ejercicio-individual",
+  "version": "1.0.0",
+  "description": "Proyecto individual para implementar una aplicación de gestión de tareas en consola utilizando JavaScript ES6.  \r Permite agregar, eliminar, editar y mostrar tareas, aplicando características modernas del lenguaje: clases, herencia, módulos, promesas, Sets, Maps, generadores, entre otros.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrodriguezcreativo/M4_AE2_ABP-Ejercicio-individual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrodriguezcreativo/M4_AE2_ABP-Ejercicio-individual/issues"
+  },
+  "homepage": "https://github.com/jrodriguezcreativo/M4_AE2_ABP-Ejercicio-individual#readme"
+}

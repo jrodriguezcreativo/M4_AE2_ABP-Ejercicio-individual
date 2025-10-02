@@ -36,8 +36,9 @@ Permite agregar, eliminar, editar y mostrar tareas, aplicando características m
 ```
 M4_AE2_ABP-Ejercicio individual
 |-- main.js
+|-- package.json
 |-- readme.md
-|-- tareas.json
+|-- tareas.js
 ```
 
 ### Instrucciones de uso
